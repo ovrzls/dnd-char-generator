@@ -1,4 +1,4 @@
-# 5th Edition Random Dungeons and Dragons Character Generator
+# 5./(6/)e Edition Random Dungeons and Dragons Character Generator
 
 **DESCRIPTION**
 
